@@ -11,26 +11,6 @@ Hermes is an innovative AI-powered messaging platform that enables users to effo
 ## Figma Design
 https://www.figma.com/file/qzHyEPZW6j3afnQDp0r7ad/Hermes?type=design&node-id=0%3A1&mode=design&t=NdNvOGmJlga3ndOf-1
 <br />
-## Developers
-<!-- Github Profile Links -->
-<div style="display:flex; justify-content: space-around; paddding:10px; padding-left:20px; padding-right:20px;">
-<a href="https://github.com/prakhart111"
-style="display:flex; align-items:center; gap:5px; font-size:20px;"> 
-<img src="https://avatars.githubusercontent.com/u/86708181?v=4" width="50px;" alt="" style="border-radius: 50%;" />
-@Prakart111 </a>
-
-<a href="https://github.com/Raunak173"
-style="display:flex; align-items:center; gap:5px; font-size:20px;"> 
-<img src="https://avatars.githubusercontent.com/u/71973645?v=4" width="50px;" alt="" style="border-radius: 50%;" />
-@Raunak173 </a>
-
-<a href="https://github.com/glitchharsh"
-style="display:flex; align-items:center; gap:5px; font-size:20px;"> 
-<img src="https://avatars.githubusercontent.com/u/76198069?v=4" width="50px;" alt="" style="border-radius: 50%;" />
-@glitchharsh </a>
-</div>
-
-<br />
 
 ## Tech Stack
 - Next.js
